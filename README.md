@@ -16,7 +16,7 @@
 El script incluye un sistema de validación de usuario para restringir el acceso a personal autorizado.
 
 **Usuario autorizado por defecto:**  
-`Hugo Arcones Martinez`
+`Hugo Arcones 
 
 Si el usuario no coincide, el script finaliza la ejecución automáticamente.
 
